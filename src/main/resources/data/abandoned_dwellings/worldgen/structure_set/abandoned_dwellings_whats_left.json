@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "abandoned_dwellings:abandoned_dwellings_whats_left",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 25,
+    "separation": 20,
+    "salt": 1926087641
+  }
+}

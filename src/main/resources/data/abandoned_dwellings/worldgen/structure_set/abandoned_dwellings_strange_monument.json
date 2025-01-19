@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "abandoned_dwellings:abandoned_dwellings_strange_monument",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 15,
+    "separation": 10,
+    "salt": 1183767004
+  }
+}

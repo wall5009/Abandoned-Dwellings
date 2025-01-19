@@ -1,0 +1,10 @@
+{
+  "parent": "abandoned_dwellings:custom/abandoned_dwellings_cobblestone_cross",
+  "textures": {
+    "all": "minecraft:block/cobblestone",
+    "particle": "minecraft:block/cobblestone",
+    "0": "minecraft:block/cobblestone",
+    "missing": "minecraft:block/cobblestone"
+  },
+  "render_type": "cutout"
+}

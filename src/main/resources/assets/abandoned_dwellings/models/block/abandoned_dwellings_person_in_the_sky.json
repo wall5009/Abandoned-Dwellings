@@ -1,0 +1,19 @@
+{
+  "parent": "neoforge:item/default",
+  "loader": "neoforge:composite",
+  "children": {
+    "part1": {
+      "loader": "neoforge:obj",
+      "render_type": "cutout",
+      "model": "abandoned_dwellings:models/item/structureblocksteve.obj",
+      "emissive_ambient": true,
+      "textures": {
+        "#m_d39f50a5-4ffd-8aa0-5bc5-927317f36fd8": "abandoned_dwellings:block/"
+      }
+    }
+  },
+  "textures": {
+    "particle": "abandoned_dwellings:block/player"
+  },
+  "render_type": "cutout"
+}

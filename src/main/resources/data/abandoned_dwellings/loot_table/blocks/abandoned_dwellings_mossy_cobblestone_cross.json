@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "abandoned_dwellings:blocks/abandoned_dwellings_mossy_cobblestone_cross",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "abandoned_dwellings:abandoned_dwellings_mossy_cobblestone_cross"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross"
+    },
+    "face=floor,facing=east": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_cobblestone_cross",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

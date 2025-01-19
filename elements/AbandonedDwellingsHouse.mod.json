@@ -1,0 +1,57 @@
+{
+  "_fv": 73,
+  "_type": "structure",
+  "definition": {
+    "structure": "abandoned_dwellings_house_final3",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "spacing": 50,
+    "separation": 25,
+    "restrictionBiomes": [
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "swamp"
+      }
+    ],
+    "terrainAdaptation": "beard_thin",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

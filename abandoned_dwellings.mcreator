@@ -1,0 +1,180 @@
+{
+  "mod_elements": [
+    {
+      "name": "AbandonedDwellingsSpruce",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_spruce",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/loot_table/chests/abandoned_dwellings_spruce.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsHouse",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_house",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure_set/abandoned_dwellings_house.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/template_pool/abandoned_dwellings_house.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure/abandoned_dwellings_house.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsCobblestoneCross",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_cobblestone_cross",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/loot_table/blocks/abandoned_dwellings_cobblestone_cross.json",
+          "src/main/resources/assets/abandoned_dwellings/blockstates/abandoned_dwellings_cobblestone_cross.json",
+          "src/main/java/net/rollylindenshnizzer/abandonedwellings/block/AbandonedDwellingsCobblestoneCrossBlock.java",
+          "src/main/resources/assets/abandoned_dwellings/models/item/abandoned_dwellings_cobblestone_cross.json",
+          "src/main/resources/assets/abandoned_dwellings/models/block/abandoned_dwellings_cobblestone_cross.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsMossyCobblestoneCross",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_mossy_cobblestone_cross",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/loot_table/blocks/abandoned_dwellings_mossy_cobblestone_cross.json",
+          "src/main/resources/assets/abandoned_dwellings/blockstates/abandoned_dwellings_mossy_cobblestone_cross.json",
+          "src/main/resources/assets/abandoned_dwellings/models/block/abandoned_dwellings_mossy_cobblestone_cross.json",
+          "src/main/java/net/rollylindenshnizzer/abandonedwellings/block/AbandonedDwellingsMossyCobblestoneCrossBlock.java",
+          "src/main/resources/assets/abandoned_dwellings/models/item/abandoned_dwellings_mossy_cobblestone_cross.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsCobblestoneCrossRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_cobblestone_cross_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/recipe/abandoned_dwellings_cobblestone_cross_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsMossyCobblestoneCrossRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_mossy_cobblestone_cross_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/recipe/abandoned_dwellings_mossy_cobblestone_cross_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsCreativeTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_creative_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "AbandonedDwellingsStrangeMonument",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_strange_monument",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/worldgen/template_pool/abandoned_dwellings_strange_monument.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure_set/abandoned_dwellings_strange_monument.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure/abandoned_dwellings_strange_monument.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsPersonInTheSky",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_person_in_the_sky",
+      "metadata": {
+        "files": [
+          "src/main/java/net/rollylindenshnizzer/abandonedwellings/block/AbandonedDwellingsPersonInTheSkyBlock.java",
+          "src/main/resources/data/abandoned_dwellings/loot_table/blocks/abandoned_dwellings_person_in_the_sky.json",
+          "src/main/resources/assets/abandoned_dwellings/blockstates/abandoned_dwellings_person_in_the_sky.json",
+          "src/main/resources/assets/abandoned_dwellings/models/item/abandoned_dwellings_person_in_the_sky.json",
+          "src/main/resources/assets/abandoned_dwellings/models/block/abandoned_dwellings_person_in_the_sky.json"
+        ]
+      }
+    },
+    {
+      "name": "AbandonedDwellingsWhatsLeft",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abandoned_dwellings_whats_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure/abandoned_dwellings_whats_left.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/structure_set/abandoned_dwellings_whats_left.json",
+          "src/main/resources/data/abandoned_dwellings/worldgen/template_pool/abandoned_dwellings_whats_left.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:AbandonedDwellingsMossyCobblestoneCross",
+      "~CUSTOM:AbandonedDwellingsCobblestoneCross"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.abandoned_dwellings.abandoned_dwellings_cobblestone_cross": "Cobblestone Cross",
+      "item_group.abandoned_dwellings.abandoned_dwellings_creative_tab": "Abandoned Dwellings",
+      "block.abandoned_dwellings.abandoned_dwellings_mossy_cobblestone_cross": "Mossy Cobblestone Cross",
+      "block.abandoned_dwellings.abandoned_dwellings_person_in_the_sky": "Person In The Sky"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "abandoned_dwellings",
+    "modName": "Abandoned Dwellings",
+    "version": "1.0.0",
+    "description": "A Minecraft mod that spawns abandoned buildings full of loot! As well as some other interesting structures...",
+    "author": "rollylindenshnizzer",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "modPicture": "structure_block",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "rollylindenshnizzer",
+    "modElementsPackage": "net.rollylindenshnizzer.abandonedwellings"
+  },
+  "mcreatorVersion": 202400452410
+}

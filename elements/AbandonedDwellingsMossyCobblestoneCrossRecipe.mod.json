@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AbandonedDwellingsMossyCobblestoneCross"
+    },
+    "name": "abandoned_dwellings_mossy_cobblestone_cross_recipe",
+    "namespace": "mod"
+  }
+}

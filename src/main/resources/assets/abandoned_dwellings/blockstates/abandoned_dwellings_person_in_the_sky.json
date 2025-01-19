@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_person_in_the_sky"
+    },
+    "facing=east": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_person_in_the_sky",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_person_in_the_sky",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "abandoned_dwellings:block/abandoned_dwellings_person_in_the_sky",
+      "y": 270
+    }
+  }
+}
