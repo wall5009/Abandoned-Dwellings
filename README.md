@@ -8,3 +8,5 @@ You can find this structure in the Taiga, Snowy Taiga, Old Growth Spruce Taiga, 
 [![A happy home.](https://i.postimg.cc/x81YVQhX/abandoneddweloinfdg.png)](https://postimg.cc/sQqb5kVz)
 
 **HAS NOT BEEN TESTED FOR MULTIPLAYER**
+
+Submit any issues you find to the github!
